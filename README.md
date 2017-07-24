@@ -1,0 +1,1 @@
+A simple flashcard generator that focuses on basic front back cards and has a Cloze Deletion functionality
